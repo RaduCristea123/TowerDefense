@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Build.cs
+    - Assets/Build.cs.meta
+    - Assets/Imports.meta
+    - Assets/Imports/Turret.fbx
+    - Assets/Imports/Turret.fbx.meta
+    - Assets/Materials.meta
+    - Assets/Materials/Bullet.mat
+    - Assets/Materials/Bullet.mat.meta
+    - Assets/Materials/BulletParticles.mat
+    - Assets/Materials/BulletParticles.mat.meta
+    - Assets/Materials/End.mat
+    - Assets/Materials/End.mat.meta
+    - Assets/Materials/Enemy.mat
+    - Assets/Materials/Enemy.mat.meta
+    - Assets/Materials/Path.mat
+    - Assets/Materials/Path.mat.meta
+    - Assets/Materials/Start.mat
+    - Assets/Materials/Start.mat.meta
+    - Assets/Node.cs
+    - Assets/Node.cs.meta
+    - Assets/Objects.meta
+    - Assets/Objects/BullectParticles.prefab
+    - Assets/Objects/BullectParticles.prefab.meta
+    - Assets/Objects/Bullet.prefab
+    - Assets/Objects/Bullet.prefab.meta
+    - Assets/Objects/Enemy.prefab
+    - Assets/Objects/Enemy.prefab.meta
+    - Assets/Objects/Node.prefab
+    - Assets/Objects/Node.prefab.meta
+    - Assets/Objects/Turret.prefab
+    - Assets/Objects/Turret.prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/MainScene - Copy.unity
+    - Assets/Scenes/MainScene - Copy.unity.meta
+    - Assets/Scenes/MainScene.unity
+    - Assets/Scenes/MainScene.unity.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Bullet.cs
+    - Assets/Scripts/Bullet.cs.meta
+    - Assets/Scripts/Enemy.cs
+    - Assets/Scripts/Enemy.cs.meta
+    - Assets/Scripts/Turret.cs
+    - Assets/Scripts/Turret.cs.meta
+    - Assets/Scripts/WaveSpawner.cs
+    - Assets/Scripts/WaveSpawner.cs.meta
+    - Assets/Scripts/Waypoints.cs
+    - Assets/Scripts/Waypoints.cs.meta
+    - Assets/StreamingAssets.meta
+    - Assets/Turret_Materials.meta
+    - Assets/Turret_Materials/Turret_Barrels1.mat
+    - Assets/Turret_Materials/Turret_Barrels1.mat.meta
+    - Assets/Turret_Materials/Turret_Barrels2.mat
+    - Assets/Turret_Materials/Turret_Barrels2.mat.meta
+    - Assets/Turret_Materials/Turret_Base1.mat
+    - Assets/Turret_Materials/Turret_Base1.mat.meta
+    - Assets/Turret_Materials/Turret_Base2.mat
+    - Assets/Turret_Materials/Turret_Base2.mat.meta
+    - Assets/Turret_Materials/Turret_Base3.mat
+    - Assets/Turret_Materials/Turret_Base3.mat.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/MemorySettings.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
